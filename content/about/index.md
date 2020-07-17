@@ -10,7 +10,7 @@ skills:
   - Python
 ---
 
-Hello! I'm Nhan Nguyen, a software engineer based in Dallas, TX.
+Hello! I'm Nhan Nguyen, a full stack web developer based in Dallas, TX.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performance experiences.
 
