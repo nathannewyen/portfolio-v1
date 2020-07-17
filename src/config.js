@@ -6,8 +6,6 @@ module.exports = {
     'Nhan Nguyen, Nhan, Nguyen, nhan13574, software engineer, front-end engineer, web developer, javascript, southeastern',
   siteUrl: 'https://nathan-portfolio-heroku.herokuapp.com/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Nhan Nguyen',
   location: 'Dallas, TX',
   email: 'nhan13574@gmail.com',
