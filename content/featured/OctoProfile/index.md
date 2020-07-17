@@ -2,8 +2,8 @@
 date: '3'
 title: 'OctoProfile'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+github: 'https://github.com/nathannewyen/octoProfile-github'
+external: 'http://18.217.194.30/'
 tech:
   - Python
   - Next.js

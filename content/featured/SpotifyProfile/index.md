@@ -2,8 +2,8 @@
 date: '2'
 title: 'Spotify Profile'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/nathannewyen/heroku-spotify'
+external: 'http://heroku-spotify-project.herokuapp.com/'
 tech:
   - Angular
   - Node.js

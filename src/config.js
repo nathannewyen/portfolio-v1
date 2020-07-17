@@ -1,39 +1,41 @@
 module.exports = {
   siteTitle: 'Nhan Nguyen | Software Engineer',
-  siteDescription: 'Nhan Nguyen is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
-  siteKeywords: 'Nhan Nguyen, Nhan, Nguyen, nhan13574, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+  siteDescription:
+    'Nhan Nguyen is a software engineer based in Dallas, TX who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+  siteKeywords:
+    'Nhan Nguyen, Nhan, Nguyen, nhan13574, software engineer, front-end engineer, web developer, javascript, southeastern',
+  siteUrl: 'https://nathan-portfolio-heroku.herokuapp.com/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Nhan Nguyen',
   location: 'Dallas, TX',
   email: 'nhan13574@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
-  socialMedia: [{
+  github: 'https://github.com/nathannewyen',
+  twitterHandle: '@natenguyen3112',
+  socialMedia: [
+    {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/nathannewyen',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/nhannguyen3112/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://codepen.io/nathanswork',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/nathan.newyen',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/natenguyen3112',
     },
   ],
 
-  navLinks: [{
+  navLinks: [
+    {
       name: 'About',
       url: '/#about',
     },
@@ -67,7 +69,7 @@ module.exports = {
     rotate: {
       x: 0,
       y: 0,
-      z: 0
+      z: 0,
     },
     opacity: 0,
     scale: 1,
@@ -80,7 +82,7 @@ module.exports = {
       top: 0,
       right: 0,
       bottom: 0,
-      left: 0
+      left: 0,
     },
   }),
 };
