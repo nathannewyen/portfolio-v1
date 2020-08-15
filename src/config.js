@@ -4,7 +4,7 @@ module.exports = {
     'Nhan Nguyen is a full stack web developer based in Dallas, TX who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
     'Nhan Nguyen, Nhan, Nguyen, nhan13574, software engineer, front-end engineer, web developer, javascript, southeastern',
-  siteUrl: 'https://nathan-portfolio-heroku.herokuapp.com/',
+  siteUrl: 'https://nathan-v1.netlify.app/',
   siteLanguage: 'en_US',
   name: 'Nhan Nguyen',
   location: 'Dallas, TX',
