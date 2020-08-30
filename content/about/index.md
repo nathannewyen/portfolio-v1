@@ -14,6 +14,4 @@ Hello! I'm Nhan Nguyen, a full stack web developer based in Dallas, TX.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performance experiences.
 
-I graduated from [Coding Dojo](https://www.codingdojo.com/) with 3 black belts in Python, Ruby on Rails and MEAN Stack
-
 Here are a few technologies I've been working with recently:
