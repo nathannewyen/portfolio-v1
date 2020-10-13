@@ -1,7 +1,7 @@
 ---
 date: '5'
 title: 'Movies App'
-cover: './movie.png'
+cover: './movies.png'
 github: 'https://github.com/nathannewyen/moviesApp'
 external: 'https://nathan-movie.netlify.app/'
 tech:
@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-Movie Web Application use React to build, and Restful API to get all the movie from themoviedb.org. This is only front-end web applications.
+Movie Web Application use React to build, and Restful API to get all the movie from themoviedb.org.
