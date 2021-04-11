@@ -1,9 +1,9 @@
 ---
 date: '2021-3-1'
-title: 'Part Time Software Engineer'
+title: 'Full Time Software Engineer'
 company: 'TeammateMe'
 location: 'Dallas, Texas'
-range: 'March 2020 - Present'
+range: 'March 2021 - Present'
 url: 'https://www.teammateme.com/'
 ---
 

@@ -5,9 +5,9 @@ cover: './teammateme.png'
 external: 'https://teammateme.com/'
 tech:
   - VS Code
-  - React.js
+  - Postgres
   - HTML/SCSS
-  - Restful API
+  - API
   - Next.js
 showInProjects: true
 ---
