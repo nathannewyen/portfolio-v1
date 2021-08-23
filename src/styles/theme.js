@@ -26,6 +26,7 @@ const theme = {
   },
 
   fontSizes: {
+    xxs: '11px',
     xs: '12px',
     smish: '13px',
     sm: '14px',
@@ -36,7 +37,7 @@ const theme = {
     h3: '32px',
   },
 
-  easing: 'cubic-bezier(0.645, 0.045, 0.355, 1)',
+  easing: 'cubic-bezier(0.65, 0.05, 0.36, 1)',
   transition: 'all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1)',
 
   borderRadius: '3px',

@@ -134,7 +134,7 @@ const mixins = {
   fancyList: css`
     padding: 0;
     margin: 0;
-    list-style: none;
+    list-style-type: none;
     font-size: ${fontSizes.lg};
     li {
       position: relative;
@@ -147,6 +147,12 @@ const mixins = {
         color: ${colors.green};
       }
     }
+  `,
+
+  resetList: css`
+    list-style: none;
+    padding: 0;
+    margin: 0;
   `,
 };
 
