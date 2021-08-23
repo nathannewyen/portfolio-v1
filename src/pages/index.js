@@ -53,6 +53,7 @@ export const pageQuery = graphql`
               childImageSharp {
                 fluid(maxWidth: 700, quality: 90, traceSVG: { color: "#64ffda" }) {
                   ...GatsbyImageSharpFluid_withWebp_tracedSVG
+                  base64
                 }
               }
             }
@@ -91,6 +92,7 @@ export const pageQuery = graphql`
               childImageSharp {
                 fluid(maxWidth: 700, quality: 90, traceSVG: { color: "#64ffda" }) {
                   ...GatsbyImageSharpFluid_withWebp_tracedSVG
+                  base64
                 }
               }
             }
