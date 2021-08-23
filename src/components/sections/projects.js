@@ -312,7 +312,7 @@ const Projects = ({ data }) => {
 };
 
 Projects.propTypes = {
-  data: PropTypes.array.isRequired,
+  data: PropTypes.array,
 };
 
 export default Projects;
