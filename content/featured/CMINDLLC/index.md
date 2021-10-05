@@ -1,5 +1,5 @@
 ---
-date: '7'
+date: '8'
 title: 'CMIND Web Application'
 cover: './cmindllc.png'
 external: 'http://www.cmindllc.com/'

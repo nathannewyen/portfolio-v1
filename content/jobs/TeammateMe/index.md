@@ -3,7 +3,7 @@ date: '2021-3-1'
 title: 'Full Stack Software Engineer'
 company: 'TeammateMe'
 location: 'Dallas, Texas'
-range: 'March 2021 - August 2021'
+range: 'March 2021 - October 2021'
 url: 'https://www.teammateme.com/'
 ---
 
